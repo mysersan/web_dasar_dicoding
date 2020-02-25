@@ -1,6 +1,5 @@
-# web dasar dicoding
-Submission Dicoding dasar-dasar Pemrograman Web 
-
+# Submission Dicoding
+Belajar Dasar Pemrograman Web 
 25 Februari 2020
 
 https://mywebdasar.herokuapp.com/
