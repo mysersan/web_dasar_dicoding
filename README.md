@@ -1,5 +1,5 @@
 # Submission Dicoding
-Belajar Dasar Pemrograman Web 
+For Development Web Fundamental 
 
 25 Februari 2020
 
