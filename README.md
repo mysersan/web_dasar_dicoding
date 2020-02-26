@@ -1,5 +1,5 @@
-# Submission Dicoding
-For Development Web Fundamental 
+# Submission Web Fundamental Dicoding
+for develop Web Fundamental Class 
 
 25 Februari 2020
 
